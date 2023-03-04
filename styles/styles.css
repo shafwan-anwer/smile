@@ -39,6 +39,9 @@
       width: 200px;
       height: 150px;
      }
+     .scoreBox {
+      margin-top: 50%;
+    }
   }
 
   .content1 {
@@ -110,12 +113,14 @@
 }
 
 .scoreBox {
-  margin-top: 40%;
+  margin-top: 15%;
   max-width: 500px;
   padding: 20px;
   background: rgba(255, 255, 255, 0.8);
   border-radius: 35px;
 }
+
+
 
 .score {
   max-width: 200px;
