@@ -30,6 +30,16 @@
     max-height: 300px;
   }
 
+  @media screen and (min-width: 480px) {
+     .content {
+      max-width: 300px;
+     }
+     .content img {
+      width: 200px;
+      height: 150px;
+     }
+  }
+
   .content1 {
     max-width: 500px;
     padding: 20px;
