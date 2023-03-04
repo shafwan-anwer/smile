@@ -76,6 +76,7 @@
   }
 
   .guessBtn {
+    margin: 10px;
     width: 66px;
     height: 80px;
     background: #FFF7AF;
