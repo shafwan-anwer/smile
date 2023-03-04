@@ -21,8 +21,13 @@
     background-color: rgba(168, 203, 205, 0.9);
     border-radius: 146px;
     margin-top: 15%;
-    width: 600px;
+    max-width: 600px;
     margin-bottom: 400px;
+  }
+
+  .img {
+    max-width: 400px;
+    max-height: 300px;
   }
 
   .content1 {
