@@ -26,7 +26,7 @@
   }
 
   .content1 {
-    width: 500px;
+    max-width: 500px;
     padding: 20px;
     background: rgba(255, 255, 255, 0.8);
     border-radius: 35px;
@@ -94,7 +94,7 @@
 }
 
 .scoreBox {
-  margin-top: 20%;
+  margin-top: 40%;
   max-width: 500px;
   padding: 20px;
   background: rgba(255, 255, 255, 0.8);
